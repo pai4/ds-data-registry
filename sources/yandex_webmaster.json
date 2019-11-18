@@ -1,0 +1,9 @@
+{
+  "id": "YANDEX_WEBMASTER",
+  "name": "Yandex.Webmaster",
+  "categories": ["ADVERTISING"],
+  "organization": "YANDEX",
+  "iconUrl": "https://webmaster.yandex.ru",
+  "sourceUrl": "https://webmaster.yandex.ru",
+  "dataVisibility": ["PRIVATE"]
+}
